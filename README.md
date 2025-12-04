@@ -3,3 +3,5 @@ This repositories will be where I put some of the theming that I used for some o
 This include as of now:
 + Abricotine
 + Setzer
++ IceWM
++ SPF (Superfile Terminal based file manager)
