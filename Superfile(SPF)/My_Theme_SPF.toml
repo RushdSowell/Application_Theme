@@ -1,0 +1,68 @@
+# Catppuccin Latte Flavor
+# Theme create by: https://github.com/GV14982
+# Update by(sort by time):
+#
+# Thanks for all contributor!!
+
+# If you want to make sidebar border display just set it same as sidebar background color
+
+# Code syntax highlight theme (you can go to https://github.com/alecthomas/chroma/blob/master/styles to find one you like)
+code_syntax_highlight = "catpuccin-mocha"
+
+# ========= Border =========
+file_panel_border = "#6c71c4" # Overlay0 (violet)
+sidebar_border = "#6c71c4"    # Overlay0
+footer_border = "#002b36"     # Overlay1 Base0
+
+# ========= Border Active =========
+file_panel_border_active = "#d33682" # Magenta
+sidebar_border_active = "#d33682"    # Magenta
+footer_border_active = "#d33682"     # Magenta
+modal_border_active = "#d33682"      # Magenta
+
+# ========= Background (bg) =========
+full_screen_bg = "#2aa198" # Base (Cyan)
+file_panel_bg = "#2aa198"  # Base
+sidebar_bg = "#2aa198"     # Base
+footer_bg = "#2aa198"      # Base
+modal_bg = "#2aa198"       # Base
+
+# ========= Foreground (fg) =========
+full_screen_fg = "#eee8d5" # Text (base2)
+file_panel_fg = "#eee8d5"  # Text
+sidebar_fg = "#eee8d5"     # Text
+footer_fg = "#eee8d5"      # Text
+modal_fg = "#eee8d5"       # Text
+
+# ========= Special Color =========
+cursor = "#073642"  # Base02
+correct = "#6c71c4" # Violet
+error = "#dc322f"   # Red
+hint = "#cb4b16"    # Orange
+cancel = "#d33682"  # Magenta
+# Gradient color can only have two color!
+gradient_color = ["#073642", "#ca9ee6"] # [Base02, Mauve]
+directory_icon_color = "#073642" # Base01
+
+# ========= File Panel Special Items =========
+file_panel_top_directory_icon = "#dc322f" # Red
+file_panel_top_path = "#073642"           # Base02
+file_panel_item_selected_fg = "#586e75"   # Base01
+file_panel_item_selected_bg = "#eee8d5"   # Base2
+
+# ========= Sidebar Special Items =========
+sidebar_title = "#fdf6e3"            # Base3
+sidebar_item_selected_fg = "#b58900" # Yellow
+sidebar_item_selected_bg = "#fdf6e3" # Base3
+sidebar_divider = "#6c71c4"          # Violet
+
+# ========= Modal Special Items =========
+modal_cancel_fg = "#d33682" # Magenta
+modal_cancel_bg = "#657b83" # Base00
+
+modal_confirm_fg = "#d33682" # Magenta
+modal_confirm_bg = "#657b83" # Base00
+
+# ========= Help Menu =========
+help_menu_hotkey = "#d33682" # Magenta
+help_menu_title = "#cb4b16"  # Orange
